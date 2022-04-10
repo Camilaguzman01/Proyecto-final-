@@ -57,9 +57,8 @@ section{
 
     ul{
         flex-direction: column;
-        height: 250px;
-     }
-
+        height: 200px;
+    }
     header h1 {
        display: flex;
        row-gap: 20px;
@@ -69,7 +68,6 @@ section{
        background-repeat: no-repeat;
        background-image: url("../multimedia/fondo62.jpg");
     }
-
     header h1 {
        align-items: center;
     }
@@ -82,4 +80,8 @@ section{
     .videos{
         width: 350px;
     }
+    .logo {
+        width : 50px;
     }
+ }
+
